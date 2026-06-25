@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0455-assign-cookies](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
