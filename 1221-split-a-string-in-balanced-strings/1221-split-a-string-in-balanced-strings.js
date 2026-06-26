@@ -3,20 +3,10 @@
  * @return {number}
  */
 var balancedStringSplit = function(s) {
-     let balance = 0;
-    let count = 0;
-
-    for (let ch of s) {
-        if (ch === 'R') {
-            balance++;
-        } else {
-            balance--;
-        }
-
-        if (balance === 0) {
-            count++;
-        }
+    let balance=0,ret=0
+    for (const letter of s){
+        balance+=letter=="R"?1:-1
+        ret+=balance==0?1:0
     }
-
-    return count;
+    return ret
 };
