@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0045-jump-game-ii) |
+| [0283-move-zeroes](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0455-assign-cookies) |
 | [2942-find-words-containing-character](https://github.com/Anurag-tyagi19/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0283-move-zeroes](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
