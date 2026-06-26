@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0045-jump-game-ii) |
 | [0322-coin-change](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0455-assign-cookies) |
 | [2942-find-words-containing-character](https://github.com/Anurag-tyagi19/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0455-assign-cookies) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Sorting
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0045-jump-game-ii) |
 | [0322-coin-change](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
