@@ -11,24 +11,24 @@
  * @return {number}
  */
 var maxDepth = function(root) {
-    // if(root === null) return 0
-    // return 1+ Math.max(maxDepth(root.left),maxDepth(root.right))
+    if(root === null) return 0
+    return 1+ Math.max(maxDepth(root.left),maxDepth(root.right))
 
-    if(!root) return 0
+    // if(!root) return 0
 
-    let depth = 0
-    let queue = [root]
+    // let depth = 0
+    // let queue = [root]
 
-    while(queue.length){
-        let size = queue.length
+    // while(queue.length){
+    //     let size = queue.length
 
-        for(i=0;i<size;i++){
-            let current = queue.shift()
-            if(current.left) queue.push(current.left)
-            if(current.right) queue.push(current.right)
-        }
-        depth++
-    }
-    return depth
+    //     for(i=0;i<size;i++){
+    //         let current = queue.shift()
+    //         if(current.left) queue.push(current.left)
+    //         if(current.right) queue.push(current.right)
+    //     }
+    //     depth++
+    // }
+    // return depth
 
 };
