@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
