@@ -90,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
