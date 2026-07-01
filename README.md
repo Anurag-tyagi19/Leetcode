@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0045-jump-game-ii) |
+| [0078-subsets](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0090-subsets-ii) |
 | [0283-move-zeroes](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0322-coin-change) |
@@ -108,9 +109,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
