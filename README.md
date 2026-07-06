@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
