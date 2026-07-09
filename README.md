@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0045-jump-game-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0078-subsets) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0037-sudoku-solver) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Binary Search
 |  |
