@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2942-find-words-containing-character](https://github.com/Anurag-tyagi19/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
