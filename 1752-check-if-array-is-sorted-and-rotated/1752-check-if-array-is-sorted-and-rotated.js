@@ -12,7 +12,6 @@ var check = function(nums) {
     }
     if(nums[0]<nums[nums.length-1]) count++
 
-    if(count == 1) return true
     return count <= 1
     
 };
