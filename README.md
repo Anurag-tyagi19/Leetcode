@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0090-subsets-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
