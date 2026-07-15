@@ -4,7 +4,7 @@
  */
 var findDuplicate = function(nums) {
     let track = {}
-    for(i=0;i<nums.length;i++){
+    for(let i=0;i<nums.length;i++){
         if(track[nums[i]]){
             return nums[i]
         }
