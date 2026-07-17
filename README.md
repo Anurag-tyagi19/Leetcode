@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2942-find-words-containing-character](https://github.com/Anurag-tyagi19/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -130,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
@@ -203,11 +207,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
 |  |
@@ -221,9 +227,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0053-maximum-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
