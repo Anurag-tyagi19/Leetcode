@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
