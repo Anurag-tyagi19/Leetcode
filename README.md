@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/Anurag-tyagi19/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Tree
 |  |
 | ------- |
