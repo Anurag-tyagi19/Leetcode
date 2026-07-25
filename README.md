@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0283-move-zeroes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0169-majority-element) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0169-majority-element) |
 ## Combinatorics
 |  |
 | ------- |
