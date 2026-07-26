@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0541-reverse-string-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
