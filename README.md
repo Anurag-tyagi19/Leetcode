@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0189-rotate-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0455-assign-cookies) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1903-largest-odd-number-in-string) |
