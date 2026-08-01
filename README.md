@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0322-coin-change) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/Anurag-tyagi19/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-tyagi19/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Anurag-tyagi19/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
