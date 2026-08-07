@@ -5,15 +5,14 @@
  */
 var convert = function(s, numRows) {
     if (numRows === 1 || numRows >= s.length) return s;
-    let rows = new Array(numRows).fill("");
-    let currentRow = 0;
-    let goingDown = false;
-    for (let char of s) {
-        rows[currentRow] += char;
-        if (currentRow === 0 || currentRow === numRows - 1) {
-            goingDown = !goingDown;
-        }
-        currentRow += goingDown ? 1 : -1;
+    let direction = false
+    let count = 0
+    let arr = new Array(numRows).fill("")
+    for(let i =0;i<s.length;i++){
+        let curr = s[i]
+        arr[count] += curr
+        if(count == 0 || count >= numRows-1) direction = !direction
+        direction ? count++ : count--
     }
-    return rows.join("");
+    return arr.join("")
 };
