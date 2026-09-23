@@ -4,16 +4,17 @@
  */
 var majorityElement = function(nums) {
     let map = {}
-    for(i=0;i<nums.length;i++){
-        if(map[nums[i]] !== undefined){
-            map[nums[i]] += 1
-        }else{
-            map[nums[i]] = 1
-        } 
+
+    let n = nums.length
+
+    for(i=0;i<n;i++){
+        map[nums[i]] ? map[nums[i]]+=1 : map[nums[i]] = 1;
     }
     for(let key in map){
-        if(map[key] > Math.floor(nums.length/2)){
+        if(map[key] > Math.floor(n/2)){
             return Number(key)
         }
     }
-};
+    
+
+}
